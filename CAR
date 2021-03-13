@@ -95,7 +95,7 @@ int main(int argc, const char * argv[]) {
 /**
  *創bmw為名的CBMW類別
  */
-CBMW bmw;
+CBMW bmw; 
 // bmw.light=3;
 /**
  *CBMW裡面的void star
